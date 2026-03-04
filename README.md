@@ -122,5 +122,5 @@ Ecommerce-Sales-Analysis
 
 ## Author
 
-Himanshu John
+Himanshu John  
 BSc Data Science and Analytics
